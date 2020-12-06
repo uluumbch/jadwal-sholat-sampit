@@ -1,0 +1,28 @@
+{
+  "name": "Jadwal Sholat Sampit dan Sekitarnya",
+  "short_name": "Sampit Moslem",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#3d3d3d",
+  "description": "Jadwal sholat untuk wilayah sampit dan sekitarnya",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/logo48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "icons/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "icons/logo64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    }
+  ]
+}
