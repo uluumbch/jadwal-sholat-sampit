@@ -13,6 +13,7 @@
   HTML | CSS | Javascript
   </br>Website ini menggunakan API dari<a href="https://waktusholat.org"> WaktuSholat.org</a>
   </p>
+  <h3 align="center">Klik <a href="https://uluumbch.github.io/jadwal-sholat-sampit/index.html">Website</a>:globe_with_meridians:</h3>
   <p align="center">
   Made with :heartpulse: by : <a href="https://github.com/uluumbch">Bachrul Uluum</a>
   </p>
