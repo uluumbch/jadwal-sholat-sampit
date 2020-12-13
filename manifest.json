@@ -1,8 +1,8 @@
 {
   "name": "Jadwal Sholat Sampit dan Sekitarnya",
   "short_name": "Sampit Moslem",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/jadwal-sholat-sampit",
+  "scope": "/jadwal-sholat-sampit",
   "display": "standalone",
   "background_color": "#000",
   "theme_color": "#3d3d3d",
