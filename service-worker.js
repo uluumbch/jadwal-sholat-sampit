@@ -2,12 +2,12 @@
 const cacheName = "v1";
 
 const cacheAssets = [
-  "./index.html",
-  "./css/bootstrap.min.css",
-  "./css/style.css",
-  "./icons/logo48.png",
-  "./icons/logo64.png",
-  "./icons/logo512.png",
+  "jadwal-sholat-sampit/./index.html",
+  "jadwal-sholat-sampit/./css/bootstrap.min.css",
+  "jadwal-sholat-sampit/./css/style.css",
+  "jadwal-sholat-sampit/./icons/logo48.png",
+  "jadwal-sholat-sampit/./icons/logo64.png",
+  "jadwal-sholat-sampit/./icons/logo512.png",
   "https://api.pray.zone/v2/times/this_week.json?city=sampit"
 ];
 
