@@ -3,7 +3,7 @@
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {
     navigator.serviceWorker
-      .register("jadwal-sholat-sampit/../service-worker.js")
+      .register("/jadwal-sholat-sampit/service-worker.js")
       .then((reg) => console.log("Service Worker: Registered (Pages)"))
       .catch((err) => console.log(`Service Worker: Error: ${err}`));
   });
